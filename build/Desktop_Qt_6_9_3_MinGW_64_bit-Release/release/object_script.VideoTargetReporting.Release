@@ -1,0 +1,12 @@
+release/BulletHistoryManager.o
+release/HIDBusinessHandler.o
+release/HIDCommandParser.o
+release/HIDResponseGenerator.o
+release/main.o
+release/videotargetreporting.o
+release/qrc_resources.o
+release/moc_BulletHistoryManager.o
+release/moc_HIDBusinessHandler.o
+release/moc_HIDReadThread.o
+release/moc_HoleOverlay.o
+release/moc_videotargetreporting.o

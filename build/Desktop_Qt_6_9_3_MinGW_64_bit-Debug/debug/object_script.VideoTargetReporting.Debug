@@ -1,0 +1,12 @@
+debug/BulletHistoryManager.o
+debug/HIDBusinessHandler.o
+debug/HIDCommandParser.o
+debug/HIDResponseGenerator.o
+debug/main.o
+debug/videotargetreporting.o
+debug/qrc_resources.o
+debug/moc_BulletHistoryManager.o
+debug/moc_HIDBusinessHandler.o
+debug/moc_HIDReadThread.o
+debug/moc_HoleOverlay.o
+debug/moc_videotargetreporting.o

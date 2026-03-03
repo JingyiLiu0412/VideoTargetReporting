@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>sound/CT_IDPA.wav</file>
+        <file>sound/CT_IPSC.wav</file>
+        <file>sound/CT_NONE.wav</file>
+        <file>sound/CT_XHB.wav</file>
+        <file>sound/end.wav</file>
+        <file>sound/occlusion.wav</file>
+        <file>sound/pause.wav</file>
+        <file>sound/score_0.wav</file>
+        <file>sound/score_5.wav</file>
+        <file>sound/score_6.wav</file>
+        <file>sound/score_7.wav</file>
+        <file>sound/score_8.wav</file>
+        <file>sound/score_9.wav</file>
+        <file>sound/score_10.wav</file>
+        <file>sound/score_A.wav</file>
+        <file>sound/score_B.wav</file>
+        <file>sound/score_C.wav</file>
+        <file>sound/score_D.wav</file>
+        <file>sound/start.wav</file>
+        <file>sound/start_tip.wav</file>
+        <file>sound/wait_start.wav</file>
+        <file>images/chest_ring_target.jpg</file>
+        <file>images/IDPA.png</file>
+        <file>images/IPSC.png</file>
+        <file>icon/cog-fill(1).png</file>
+        <file>icon/poweroff(1).png</file>
+        <file>icon/poweroff.png</file>
+        <file>icon/return(1).png</file>
+        <file>icon/return.png</file>
+        <file>icon/tick.png</file>
+    </qresource>
+</RCC>
