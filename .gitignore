@@ -1,0 +1,26 @@
+# Build artifacts
+*.o
+*.a
+*.so
+Makefile
+.qmake.stash
+ui_*.h
+moc_*.cpp
+moc_*.o
+qrc_*.cpp
+qrc_*.o
+moc_predefs.h
+VideoTargetReporting
+VideoTargetReporting.exe
+
+# Qt Creator
+*.pro.user
+*.pro.user.*
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+
+# CodeQL
+_codeql_detected_source_root
